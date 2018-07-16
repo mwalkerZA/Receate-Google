@@ -1,0 +1,27 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center_buttons {
+    height: 36px;
+    line-height: 27px;
+    font-size: 13px;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+    text-align: center;
+}
+
+.center_languages {
+    line-height: 27px;
+    text-align: center;
+}
+
+.search_bar {
+    padding: 0px;
+    height: auto;
+    width: 40%;
+    left: 0px;
+}
